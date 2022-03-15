@@ -5,30 +5,24 @@
 ```sh
 var developements = {
     "Web Development" : {
-        "Languages" : [ "HTML" , "CSS", "JavaScript", "TypeScript" ] ,
-        "Frameworks" : [ "Node.js", "Express.js", "MongoDB", 
-                        "MySQL", "React", "Angular", "Ejs", "Bootstrap" ]
+        "Languages" : [ "HTML" , "CSS", "JavaScript", "PHP", ".Net", "VB" ] ,
+        "Frameworks" : [ "Node.js", "MongoDB", "MySQL", "React", "Laravel", "Codeigniter", "Bootstrap" ]
     }
     "Native App Development" : {
-        "Languages" : ["HTML", "XML", "JAVA", "TypeScript", "SCSS" ] ,
-        "Frameworks & Tools" : ["Angular", "Ionic",  "Gradle", "Android Studio", "Google APIs"]
+        "Languages" : ["HTML", "XML", "JAVA", ] ,
+        "Frameworks & Tools" : ["React Native", "Ionic",  "Gradle", "Android Studio"]
     }
     "Desktop App Development" : {
-        "Languages" : ["Python"] ,
-        "Libraries" : ["Tkinter"]
-    }
-    "Machine Learning" : {
-        "Languages" : ["Python"] ,
-        "Libraries" : ["Numpy", "Pandas", "Matplotlib", "Sklearn", "OpenCV" ]
+        "Languages" : ["Java", "C++", "C#", "Java"] ,
+        "Libraries" : ["Swing"]
     }
     "Ethical Hacking" : {
         "Languages" : ["Python"] ,
         "System" : ["Kali Linux"]
     }
     "Game Development" : {
-        "Languages" : ["C++","Python"],
-        "Libraries" : ["UE libraries", "Pygame"],
-        "Editors" : ["Unreal Engine"]
+        "Languages" : ["C++", "C#"],
+        "Editors" : ["Unity"]
     }
 }
 ```
