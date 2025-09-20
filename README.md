@@ -41,7 +41,8 @@ var developements = {
 - 5⭐[codechef handle](https://www.codechef.com/users/bangprabs)
 - Thanks for visiting this profile. Follow me to get all the updates about my repositories and my open source works.
 ## 
-<br>
+
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bangprabs&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
