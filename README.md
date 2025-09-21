@@ -32,7 +32,7 @@ var developements = {
     </a>
 </div>
 
-
+## 
 - 👨‍💻 All of my projects are available at
 [https://github.com/bangprabs/](https://github.com/bangprabs)
 
