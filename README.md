@@ -43,7 +43,7 @@ var developements = {
 ## 
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bangprabs&theme=react)]
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bangprabs&theme=react)]
 
 ##
 
