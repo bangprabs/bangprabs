@@ -55,12 +55,6 @@ var developements = {
     <a href="https://angular.io/" target="_blank" title ="Angular"> <img
             src="https://brandslogos.com/wp-content/uploads/thumbs/angular-logo-vector.svg"
             alt="angular" width="40" height="40" /> </a>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" title ="Azure"> <img
-            src="https://pngimage.net/wp-content/uploads/2018/05/azure-logo-png-8.png"
-            alt="azure" width="50" height="35" /> </a>
-    <a href="https://aws.amazon.com/" target="_blank" title ="AWS"> <img
-            src="https://mk0futurumreseabr7pm.kinstacdn.com/wp-content/uploads/2020/01/aws-logo.png"
-            alt="aws" width="40" height="40" /> </a>
     <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" /> </a>
@@ -173,4 +167,4 @@ var developements = {
 
 ------
 Credit: [bangprabs](https://github.com/bangprabs)
-Last Edited on: 11-06-2021
+Last Edited on: 21-09-2025
